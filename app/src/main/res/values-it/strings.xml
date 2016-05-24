@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scrapbooking App</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Benvenuti a punti di riferimento</string>
+    <string name="tajmahal">Taj Mahal in India è una delle meraviglie </string>
+    <string name="effieltower">Effiel Tower è a Parigi</string>
+    <string name="leaningtower">Torre di Pisa è incredibile</string>
+</resources>
